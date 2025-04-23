@@ -116,6 +116,7 @@ public class ProductCrudOperationsUsingSpringJpaApplication {
 			default:
 				break;
 			}
+			System.out.print("Thank You");
 		}
 	}
 
